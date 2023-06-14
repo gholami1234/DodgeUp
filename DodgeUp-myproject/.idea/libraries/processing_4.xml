@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="processing-4">
+    <CLASSES>
+      <root url="jar://D:/processing-4.2-windows-x64.zip!/processing-4.2" />
+      <root url="jar://$USER_HOME$/Downloads/processing-4.2-windows-x64.zip!/processing-4.2/core" />
+      <root url="jar://$USER_HOME$/Downloads/processing-core.jar.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/processing.jar.zip!/" />
+      <root url="jar://D:/core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/processing.jar.zip!/" recursive="false" />
+  </library>
+</component>
